@@ -203,6 +203,6 @@ This project is created for educational and development purposes.
 
 ## 👨‍💻 Author
 
-**Your Name**
+Nima Lama , Diwash Gautam
 
 Hotel Booking Management System — built with React, TypeScript, Tailwind CSS, and shadcn/ui.
